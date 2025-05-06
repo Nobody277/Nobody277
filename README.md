@@ -20,3 +20,11 @@ Some of my favorite apps & languages
   <img src="https://img.shields.io/badge/Python-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Lua-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
 </p>
+
+Socials
+<p align="left">
+  <a href="https://leetcode.com/Nobody277/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LeetCode-Nobody277-FFA116?style=flat-square&logo=leetcode&logoColor=white"
+         alt="LeetCode – Nobody277"/>
+  </a>
+</p>
