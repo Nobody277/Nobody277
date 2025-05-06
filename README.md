@@ -1,4 +1,4 @@
-# Hey there, I’m Nobody277 👋
+# Hey there, I’m Nobody277 <img src="https://raw.githubusercontent.com/Nobody277/Nobody277/main/images/Hi.gif" width="32" alt="Hi gif"/>
 
 I’m a Computer Science major and I make things.
 
@@ -7,7 +7,8 @@ I’m a Computer Science major and I make things.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nobody277&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
-Some of my favorite apps & languages
+Some of my favorite apps & languages Some of my favorite apps & languages 
+
 <p align="left">
   <img src="https://img.shields.io/badge/Visual%20Studio-Visual%20Studio-68217A?style=flat-square&logo=visual-studio&logoColor=white" alt="Visual Studio" />
   <img src="https://img.shields.io/badge/VS%20Code-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
