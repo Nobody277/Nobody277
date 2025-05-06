@@ -1,4 +1,4 @@
-# Hey there, I’m Nobody277 <img src="https://raw.githubusercontent.com/Nobody277/Nobody277/main/images/Hi.gif" width="32" alt="Hi gif"/>
+# Hey there, I’m Nobody <img src="https://raw.githubusercontent.com/Nobody277/Nobody277/main/images/Hi.gif" width="32" alt="Hi gif"/>
 
 I’m a Computer Science major and I make things.
 
