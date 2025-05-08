@@ -1,0 +1,10 @@
+{
+  "class": "Manager",
+  "methods": [
+    { "name": "getStudent()", "count": 15 },
+    { "name": "getCourse()", "count": 12 },
+    { "name": "addAssignment()", "count": 25 },
+    { "name": "enrollStudent()", "count": 15 },
+    { "name": "printCourseNames()", "count": 8 }
+  ]
+}
