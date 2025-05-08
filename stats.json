@@ -1,5 +1,0 @@
-{
-  "Manager": { "methods": 22, "fields": 4 },
-  "Student": { "methods": 5,  "fields": 2 },
-  "Course":  { "methods": 8,  "fields": 5 }
-}
